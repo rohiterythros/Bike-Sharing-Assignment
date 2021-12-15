@@ -1,44 +1,34 @@
 # Project Name
-> Outline a brief description of your project.
-
+> This is a study wherein a multiple linear regression model is built for the prediction of demand for shared bikes.
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* The study of demand of bikes in a bike sharing company based on various factors
+* Python 3
+* The demand increases during the months in Summer and Fall seasons
+* I thank IIT-B, UpGrad for giving me this assignment. It was a great opportunity to learn through regression by doing this assignment. A special thanks to Vishwesh, my UpGrad buddy for all his help.
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This is a study wherein a multiple linear regression model is built for the prediction of demand for shared bikes.
+- This project is based on Linear regression
+- How the demand for bike sharing increases with various factors is analysed.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
+- The demand increases during the months of March, May, June, July, August, September and October 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python 3
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- I thank IIT-B, UpGrad for giving me this assignment. It was a great opportunity to learn through regression by doing this assignment. A special thanks to Vishwesh, my UpGrad buddy for all his help. 
 
 
 ## Contact
